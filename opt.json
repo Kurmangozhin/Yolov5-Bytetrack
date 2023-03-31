@@ -1,0 +1,11 @@
+{
+"confThreshold":0.55,
+"iouThreshold":0.45,
+"class_id": 0,
+"modelpath": "models/yolov5s.onnx",
+"classNamesPath":"models/classes.names",
+"logsname":"report.txt",
+"cuda":true,
+"show":true,
+"hw":640
+}
