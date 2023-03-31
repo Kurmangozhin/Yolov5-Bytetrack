@@ -1,5 +1,7 @@
 ## Requirements
 
+![]() <img src="imgc.jpg"  width="780">
+
 # Compile library
 
 1. Opencv https://github.com/opencv/opencv C++
